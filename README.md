@@ -1,6 +1,6 @@
 # corporate-data-science-workshop
 
-# 📚 Corporate Data Science Workshop Datasets
+# Corporate Data Science Workshop Datasets
 
 Bu repo, kurumsal data science atölyesi için hazırlanmış örnek veri setlerini içerir.  
 Katılımcılar bu veriler üzerinde basit keşifsel analiz, veri temizleme ve görselleştirme uygulamaları yapabilir.
@@ -39,7 +39,7 @@ Katılımcılar bu veriler üzerinde basit keşifsel analiz, veri temizleme ve g
 import pandas as pd
 
 # Ana veri seti
-url = "https://raw.githubusercontent.com/<kullanici_adin>/<repo_adı>/main/OnlineRetail_Sample.csv"
+url = "https://raw.githubusercontent.com/AsliMeydan1/corporate-data-science-workshop/refs/heads/main/OnlineRetail_Sample.csv"
 df = pd.read_csv(url)
 df.head()
 
