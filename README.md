@@ -44,6 +44,6 @@ df = pd.read_csv(url)
 df.head()
 
 # Kirli veri örneği
-url_dirty = "https://raw.githubusercontent.com/<kullanici_adin>/<repo_adı>/main/OnlineRetail_KirliVeri_Ornek.csv"
+url_dirty = "https://raw.githubusercontent.com/AsliMeydan1/corporate-data-science-workshop/refs/heads/main/OnlineRetail_KirliVeri_Ornek.csv"
 df_dirty = pd.read_csv(url_dirty)
 df_dirty
