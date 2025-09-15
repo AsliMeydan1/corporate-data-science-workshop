@@ -1,5 +1,3 @@
-# corporate-data-science-workshop
-
 # Corporate Data Science Workshop Datasets
 
 Bu repo, kurumsal data science atölyesi için hazırlanmış örnek veri setlerini içerir.  
