@@ -1,0 +1,6 @@
+InvoiceNo,CustomerID,Product,Quantity,Country
+536365,12345,Chair,6,Turkey
+536366,12345,chair,-6,turkey
+536367,12346,Table,3,France
+536368,,Chair,2,Turkey
+536369,12347,Sofa,1,UK
